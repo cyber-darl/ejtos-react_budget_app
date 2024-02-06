@@ -1,0 +1,30 @@
+.cool {
+  background-color: #4ead5c;
+  color: white;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 40px;
+  border: 1px;
+}
+.cooler {
+  background-color: #b01f12;
+  color: white;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 40px;
+  border: 1px;
+}
+.hover {
+  background-color: white;
+  color: black;
+  border: 10px;
+}
+.hover:hover {
+  background-color: white !important;
+}
+
+.select {
+  background-color: white;
+  border-radius: 5px solid black;
+  height: 2em;
+}
